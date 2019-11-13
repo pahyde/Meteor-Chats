@@ -3,7 +3,7 @@ import Channel from './Channel.js';
 
 const App = () => (
   <div>
-    <h1>Welcome to Meteor!</h1>
+    <h1>Meteor Chats</h1>
     <Channel />
   </div>
 );
